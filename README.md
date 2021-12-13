@@ -16,4 +16,4 @@ Any user library save file can be uploaded and restored from a network drive or 
 
 # Questions or issues
 
-If you have any questions, issues to report or would like to learn more, please use this repository or email support: info@mobigogo.net. This site is also where source examples for using iBackup will be posted as documents.
+If you have any questions, issues to report or would like to learn more about iBackup, please use this repository or email support: info@mobigogo.net. This site is also where source examples for using iBackup will be posted as documents. Issues can also be logged here.
